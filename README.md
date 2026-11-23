@@ -1,48 +1,31 @@
-<<<<<<< HEAD
-Event Ticket Platform
+# Event Ticket Platform
 
 Spring Boot backend for an event ticket booking platform.
 
+## Tech Stack
 
+- Java 21
+- Spring Boot
+- Spring Security
+- OAuth2 Resource Server
+- Keycloak
+- MySQL
+- Docker Compose
 
-Tech Stack
+## Running the Project
 
-Java 21
+1. Start MySQL and Keycloak
+2. Configure database credentials
+3. Run:
 
-Spring Boot
-
-Spring Security
-
-OAuth2 Resource Server
-
-Keycloak
-
-MySQL
-
-Docker Compose
-
-Running the Project
-
-Start MySQL and Keycloak
-
-Configure database credentials
-
-Run:
-
+```bash
 mvn spring-boot:run
+```
 
-Features
+## Features
 
-JWT Authentication with Keycloak
-
-Event Management
-
-Ticket Booking
-
-MySQL Persistence
-
-REST APIs
-
-=======
-# SpringBoot-Project-Event-ticket-platform-
->>>>>>> 0f3530307dcb732258286f89d5dd69c44bca4ebe
+- JWT Authentication with Keycloak
+- Event Management
+- Ticket Booking
+- MySQL Persistence
+- REST APIs
