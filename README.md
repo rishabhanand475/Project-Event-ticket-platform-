@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Event Ticket Platform
 
 Spring Boot backend for an event ticket booking platform.
@@ -42,3 +43,6 @@ MySQL Persistence
 
 REST APIs
 
+=======
+# SpringBoot-Project-Event-ticket-platform-
+>>>>>>> 0f3530307dcb732258286f89d5dd69c44bca4ebe
